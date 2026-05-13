@@ -145,3 +145,10 @@ Open the dashboard file from the `powerbi/` folder.
 ## 👨🏻‍💻 Author
 
 Mihirr Dobariya
+
+Author
+Ayush Padaniya
+
+📧 Email: mihirofficial33.edu@gmail.com 
+
+💼 LinkedIn: www.linkedin.com/in/mihirr51
