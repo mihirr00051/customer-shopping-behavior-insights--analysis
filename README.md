@@ -4,7 +4,7 @@ This project demonstrates a complete end-to-end data analytics workflow using Py
 
 The project simulates a real-world analytics environment where raw customer transaction data is transformed into meaningful business intelligence for decision-making.
 
-![Project Banner](images/data-1.png)
+![Project Banner](images/project-banner.png)
 
 ---
 
@@ -52,12 +52,14 @@ Business Insights & Reporting
 
 ## 📈 Key Analysis Performed
 
-## ✅ Data Cleaning & Preparation (Python)
+### ✅ Data Cleaning & Preparation (Python)
+
 - Handled missing values
 - Cleaned inconsistent data
 - Prepared dataset for SQL analysis
 
 ### ✅ SQL Business Analysis
+
 - Customer segmentation analysis
 - Revenue analysis
 - Category performance analysis
@@ -65,7 +67,9 @@ Business Insights & Reporting
 - Gender-based customer insights
 
 ### ✅ Power BI Dashboard
+
 Interactive dashboard containing:
+
 - Total Customers
 - Average Purchase Amount
 - Product Category Insights
@@ -102,19 +106,20 @@ customer-shopping-behavior-analysis/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/mihirr00051/customer-shopping-behavior-analysis.git
+git clone https://github.com/mihirr00051/customer-shopping-behavior-insights--analysis.git
 ```
 
 ### 2️⃣ Open Jupyter Notebook
 
 Run:
-- data cleaning
-- preprocessing
+
+- Data cleaning
+- Data preprocessing
 - SQL database connection
 
 ### 3️⃣ Load Data into MySQL
 
-Create database and import cleaned dataset into MySQL.
+Create a database and import the cleaned dataset into MySQL.
 
 ### 4️⃣ Run SQL Queries
 
@@ -126,9 +131,7 @@ sql/queries.sql
 
 ### 5️⃣ Open Power BI Dashboard
 
-```text
-powerbi/customer_behavior_dashboard.pbix
-```
+Open the dashboard file from the `powerbi/` folder.
 
 ---
 
