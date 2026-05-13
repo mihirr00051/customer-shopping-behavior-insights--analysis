@@ -4,8 +4,6 @@ This project demonstrates a complete end-to-end data analytics workflow using Py
 
 The project simulates a real-world analytics environment where raw customer transaction data is transformed into meaningful business intelligence for decision-making.
 
-![Project Banner](images/project-banner.png)
-
 ---
 
 ## 📌 Project Objectives
