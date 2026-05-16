@@ -2,7 +2,6 @@
   <img src="banner.jpg" alt="Data Analytics Banner" width="100%"/>
 </p>
 <h1 align="center">👨🏻‍💻 Customer Shopping Behavior Analysis</h1>
-<h3 align="center">End-to-End Data Analytics Project</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
