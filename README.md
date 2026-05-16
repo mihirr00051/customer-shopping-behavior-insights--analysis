@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.jpg" alt="Data Analytics Banner" width="100%"/>
+</p>
 <h1 align="center">👨🏻‍💻 Customer Shopping Behavior Analysis</h1>
 <h3 align="center">End-to-End Data Analytics Project</h3>
 <p align="center">
@@ -208,7 +211,9 @@ MIHIRR DOBARIYA
 
 **Your Name**
 📧 Email: mihirofficial33.edu@gmail.com 
+
 💼 LinkedIn: [linkedin.com/in/mihirr51](https://linkedin.com/in/mihirr51)
+
 🐙 GitHub: [github.com/mihirr00051](https://github.com/mihirr00051)
 
 ---
